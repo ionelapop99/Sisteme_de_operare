@@ -1,1 +1,1 @@
-# Sisteme_de_operare
+Acest Repository contine temele de laborator realizate pentru disciplina Sisteme de Operare. In realizarea acestor teme am folosit Bash. Temele sunt structurate pe scripturi,iar in interiorul fiecarui script exista cerinta aferenta sub forma de comentariu.
